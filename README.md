@@ -1,2 +1,2 @@
-# Machine-Learning_Coursera
+# Machine Learning_Coursera
 MATLAB assignments
